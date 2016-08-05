@@ -1,0 +1,38 @@
+_repo: The-Journals-of-Lewis-and-Clark-1804-1806_8419
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lewis, Meriwether
+    birthdate: 1774
+    deathdate: 1809
+    gutenberg_agent_id: '2733'
+    url: http://www.gutenberg.org/2009/agents/2733
+    wikipedia: http://en.wikipedia.org/wiki/Meriwether_Lewis
+  - agent_name: Clark, William
+    birthdate: 1770
+    deathdate: 1838
+    gutenberg_agent_id: '6210'
+    url: http://www.gutenberg.org/2009/agents/6210
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clark, William, 1770-1838'
+- !lcsh 'Lewis, Meriwether, 1774-1809'
+- !lcc 'F590.3'
+- !lcsh 'Lewis and Clark Expedition (1804-1806)'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Missouri River -- Description and travel'
+- !lcsh 'Columbia River -- Description and travel'
+- !lcsh 'West (U.S.) -- History -- To 1848'
+- GITenberg
+title: The Journals of Lewis and Clark, 1804-1806
+url: http://www.gutenberg.org/ebooks/8419
